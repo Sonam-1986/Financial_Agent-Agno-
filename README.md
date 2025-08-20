@@ -16,15 +16,15 @@ This Financial Agent is an intelligent chatbot system designed to provide fast, 
 
 #  Applications:
 
-  # 1.📈 Personal Finance Guidance – Explain financial terms, budgeting advice, and stock basics.
+   1.📈 Personal Finance Guidance – Explain financial terms, budgeting advice, and stock basics.
 
-  # 2.💹 Stock & Market Insights – Query about stock performance, financial trends, and market sentiment.
+   2.💹 Stock & Market Insights – Query about stock performance, financial trends, and market sentiment.
 
-  # 3.🏦 Banking & Investment Support – Provide quick insights about loans, savings, mutual funds, etc.
+   3.🏦 Banking & Investment Support – Provide quick insights about loans, savings, mutual funds, etc.
 
- # 4.📊 Business Decision Support – Assist companies with financial strategy and competitive analysis.
+  4.📊 Business Decision Support – Assist companies with financial strategy and competitive analysis.
 
-# 5.🎓 Educational Tool – Help students understand finance concepts in simple words.
+ 5.🎓 Educational Tool – Help students understand finance concepts in simple words.
 
 # Future Enhancements :
 
